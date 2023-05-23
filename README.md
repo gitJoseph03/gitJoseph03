@@ -10,7 +10,7 @@
 * Odoo Python Testing
 * Flutter Automation Testing
 ## 👨🏻‍🏫 Here's the link for my sample script code
-* [Cypress JavaScript using Page Object Model](https://github.com/gitJoseph03/gitJoseph03)
+* [Cypress JavaScript using Page Object Model](https://github.com/gitJoseph03/cypress_code)
 ## 📫 How to reach me
 * Gmail: mjoseph.jimenez03@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/mark-joseph-jimenez-22241a1b9/)
