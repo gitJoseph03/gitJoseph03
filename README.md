@@ -8,6 +8,7 @@
 ## 🌱 I’m currently learning about ...
 * Selenium with Cucumber BDD
 * Odoo Python Testing
+* Flutter Automation Testing
 ## 👨🏻‍🏫 Here's the link for my sample script code
 * [Cypress JavaScript using Page Object Model](https://github.com/gitJoseph03/gitJoseph03)
 ## 📫 How to reach me
